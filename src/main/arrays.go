@@ -1,4 +1,4 @@
-package main5
+//package main5
 
 import (
 	"bufio"
